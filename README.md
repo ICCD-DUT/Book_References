@@ -8,7 +8,7 @@
 
 ## 第二章技术案例代码
 ### 2.3.1 技术案例：对象感知引导的自主场景三维重建
-相关论文：[Object-Aware Guidance for Autonomous Scene Reconstruction](https://github.com/againxx/OASC-Benchmark)
+相关论文：[Object-Aware Guidance for Autonomous Scene Reconstruction](https://vcc.tech/research/2018/ObjNBV)
 
 代码及相关信息：https://github.com/againxx/OASC-Benchmark
 
