@@ -19,7 +19,7 @@
 发布在ROS上的代码及相关信息：http://wiki.ros.org/tensor_field_nav
 
 ### 2.4.1 技术案例：视觉语义导航中基于语义场景补全的场景探索
-相关论文：[SSCNav: Confidence-Aware Semantic Scene Completion for Visual Semantic Navigation](https://github.com/columbia-ai-robotics/SSCNav) 
+相关论文：[SSCNav: Confidence-Aware Semantic Scene Completion for Visual Semantic Navigation](https://sscnav.cs.columbia.edu/) 
 
 代码及相关信息：https://github.com/columbia-ai-robotics/SSCNav
 
