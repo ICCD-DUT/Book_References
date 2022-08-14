@@ -1,9 +1,9 @@
 # 场景建模与机器人感知专著参考文献
 ## 第一章技术案例代码
 ### 1.3.1 技术案例：基于多任务的深度图预测
-[Deeper Depth Prediction with Fully Convolutional Residual Networks](https://arxiv.org/abs/1606.00373)
+相关工作：[Deeper Depth Prediction with Fully Convolutional Residual Networks](https://arxiv.org/abs/1606.00373)
 
-相关工作的代码及信息请访问：https://github.com/iro-cp/FCRN-DepthPrediction
+代码及相关信息：https://github.com/iro-cp/FCRN-DepthPrediction
 
 
 ## 第二章技术案例代码
