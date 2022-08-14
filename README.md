@@ -14,7 +14,7 @@
 
 
 ### 2.3.2 技术案例：面向未知三维场景重建系统的设计与实现
-相关论文：[Autonomous Reconstruction of Unknown Indoor Scenes Guided by Time-varying Tensor Fields](http://wiki.ros.org/tensor_field_nav)
+相关论文：[Autonomous Reconstruction of Unknown Indoor Scenes Guided by Time-varying Tensor Fields](https://vcc.tech/research/2017/Fetch1)
 
 发布在ROS上的代码及相关信息：http://wiki.ros.org/tensor_field_nav
 
