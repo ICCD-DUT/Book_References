@@ -1,4 +1,3 @@
-# 场景建模与机器人感知专著参考文献
 ## 第二章技术案例代码
 ### 2.3.1 技术案例：对象感知引导的自主场景三维重建
 相关论文：[Object-Aware Guidance for Autonomous Scene Reconstruction](https://vcc.tech/research/2018/ObjNBV)
